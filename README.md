@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Georges El Hayek</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
+
 - 🏢 Software Engineer Student at Antonine University
+
+- 💡 Interested In Frontend and backend development
+
 - 📫 How to reach me **georgeshayek85@gmail.com**
-- 💡 Interested in frontend and backend Development
+
 - 📄 Know about my experiences [https://lavender-marchelle-77.tiiny.site/](https://lavender-marchelle-77.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
