@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Georges El Hayek</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+<h3 align="center">Full-Stack Engineer | Java & React Enthusiast</h3>
 
-- 🏢 Software Engineer Student at Antonine University
+Full-Stack Engineer specializing in **Java, Spring Boot, Next.js & React** with experience
+building and deploying production-ready applications.
 
-- 💡 Interested In Frontend and backend development
+⚙️ Experience & Skills:
+- **Backend:** Spring Boot microservices, REST APIs, authentication & authorization systems
+- **Frontend:** Next.js, React, TailwindCSS, responsive UI development
+- **Databases:** SQL database design (PostgreSQL, MySQL)
+- **DevOps & Deployment:** Docker, CI/CD pipelines, and deploying apps to servers
+- **Project Management:** Regularly using Jira & Notion for task tracking and project organization
 
-- 📫 How to reach me **georgeshayek85@gmail.com**
+📫 How to reach me **georgeshayek85@gmail.com**
 
-- 📄 Know about my experiences [https://lavender-marchelle-77.tiiny.site/](https://lavender-marchelle-77.tiiny.site/)
+📄 Check my CV [(https://yellow-malinde-44.tiiny.site/)](https://yellow-malinde-44.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
