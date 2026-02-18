@@ -5,7 +5,7 @@ Full-Stack Engineer specializing in **Java, Spring Boot, Next.js & React** with 
 building and deploying production-ready applications.
 
 ⚙️ Experience & Skills:
-- **Backend:** SSpring Boot for building scalable backend services 
+- **Backend:** Spring Boot for building scalable backend services 
 - **Frontend:** Next.js, React, TailwindCSS, responsive UI development
 - **Databases:** SQL database design (PostgreSQL, MySQL)
 - **DevOps & Deployment:** Docker, CI/CD pipelines, and deploying apps to servers
